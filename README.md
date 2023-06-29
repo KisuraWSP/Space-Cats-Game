@@ -5,3 +5,6 @@
 - Space : shoot missile
 - F : teleporting missile (Attack Of the space cats only)
 - WASD : movement keys
+
+#### Requirements for it to work
+- Need to have pygame module installed
