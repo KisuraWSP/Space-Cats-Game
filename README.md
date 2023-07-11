@@ -10,4 +10,5 @@
 - Need to have pygame module installed
 
 #### References
-- https://youtu.be/FfWpgLFMI7w
+- [Free Code Camp Pygame Tutorial for Beginners](https://youtu.be/FfWpgLFMI7w)
+- https://www.youtube.com/watch?v=FfWpgLFMI7w
