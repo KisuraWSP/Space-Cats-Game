@@ -7,8 +7,4 @@
 - WASD : movement keys
 
 #### Requirements for it to work
-- Need to have pygame module installed
-
-#### References 
-- [Free Code Camp Pygame Tutorial for Beginners](https://youtu.be/FfWpgLFMI7w)
-  
+- Need to have pygame module installed  
