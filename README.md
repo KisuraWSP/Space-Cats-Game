@@ -9,6 +9,6 @@
 #### Requirements for it to work
 - Need to have pygame module installed
 
-#### References & Source Code Used are in the following link below
+#### References 
 - [Free Code Camp Pygame Tutorial for Beginners](https://youtu.be/FfWpgLFMI7w)
   
